@@ -178,7 +178,7 @@ export const facilities: Facility[] = [
     id: '5',
     name: 'Appliance Repair',
     description: 'Expert repairs for all major household appliances, including refrigerators, washing machines, and dishwashers.',
-    imageUrl: 'https://images.pexels.com/photos/5063095/pexels-photo-5063095.jpeg',
+    imageUrl: 'https://images.pexels.com/photos/4981794/pexels-photo-4981794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     price: 80,
     category: 'Appliance Repair',
     assignedStaff: ['3'],
