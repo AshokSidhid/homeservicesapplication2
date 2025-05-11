@@ -142,18 +142,7 @@ const Login: React.FC = () => {
           </div>
           
           {/* Demo Login Info */}
-          <div className="mt-8 pt-6 border-t border-gray-200">
-            <h3 className="text-sm font-medium text-gray-500 mb-3">Demo Accounts:</h3>
-            <div className="space-y-2 text-xs">
-              {demoCredentials.map((cred, index) => (
-                <div key={index} className="bg-gray-50 p-2 rounded">
-                  <p><strong>Role:</strong> {cred.role}</p>
-                  <p><strong>Email:</strong> {cred.email}</p>
-                  <p><strong>Password:</strong> {cred.password}</p>
-                </div>
-              ))}
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
