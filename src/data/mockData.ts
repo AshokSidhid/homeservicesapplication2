@@ -130,7 +130,7 @@ export const facilities: Facility[] = [
     id: '1',
     name: 'Plumbing Services',
     description: 'Professional plumbing services for your home, including pipe repairs, installations, and drain cleaning.',
-    imageUrl: '#.jpeg',   //Image URL placeholder
+    imageUrl: 'https://images.pexels.com/photos/372796/pexels-photo-372796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',   //Image URL placeholder
     price: 75,
     category: 'Plumbing',
     assignedStaff: ['1'],
